@@ -16,5 +16,5 @@ App for tracking time of tasks and activities
 <pre>
 1. docker build -t [projectfolder]
 
-2. docker run -it -p 8080:80 [project folder]
+2. docker run -it -p 8080:80 [projectfolder]
 </pre>
